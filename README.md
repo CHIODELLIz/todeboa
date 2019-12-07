@@ -1,17 +1,17 @@
-#TERMO DE USO DE APLICATIVO
+# TERMO DE USO DE APLICATIVO
 
-##ACEITAÇÃO
+## ACEITAÇÃO
 
 Este é um contrato firmado entre você, de agora em diante denominado como usuário, e a WARLEY FERNANDES TAVARES 97381152134, Microempresa de Sociedade Limitada cadastrada no CNPJ sob no 30.939.019/0001-69 com sede no município de Formosa, Goiás, a Rua 15 n. 894, e de agora em diante denominada simplesmente de Tô de Boa. Este “Termo de Uso de Aplicativo” rege o uso de todos os aplicativos disponibilizados gratuitamente pela Tô de Boa sejam para dispositivos móveis (Android, IOS), servidores, computadores pessoais (desktops) ou serviços web. Se você não concordar com estes termos não use este aplicativo.
 Você reconhece que analisou e aceitou as condições de uso. Leia-as atentamente pois o uso deste aplicativo significa que você aceitou todos os termos e concorda em cumpri-los. Se você, usuário, for menor de idade ou declarado incapaz em quaisquer aspectos, precisará da permissão de seus pais ou responsáveis que também deverão concordar com estes mesmos termos e condições.
 
-##LICENÇA LIMITADA
+## LICENÇA LIMITADA
 
 Você recebeu uma licença limitada, não transferível, não exclusiva, livre de royalties e revogável para baixar, instalar, executar e utilizar este aplicativo em seu dispositivo. Você reconhece e concorda que a Tô de Boa concede ao usuário uma licença exclusiva para uso e desta forma não lhe transfere os direitos sobre o produto.
 A licença concedida ao usuário pelo Tô de Boa, é ainda pessoal, universal, isenta de royalties, intransferível, não exclusiva, revogável e não sublicenciável para acessar e utilizar o Serviço. Essa licença é para o propósito exclusivo de permitir que você use e desfrute dos benefícios do Serviço, conforme a intenção da Tô de Boa e autorização prevista neste Contrato.
 O aplicativo deverá ser utilizado por você, usuário. A venda, transferência, modificação, engenharia reversa ou distribuição bem como a cópia de textos, imagens ou quaisquer partes nele contido é expressamente proibida.
 
-##ALTERAÇÕES, MODIFICAÇÕES E RESCISÃO
+## ALTERAÇÕES, MODIFICAÇÕES E RESCISÃO
 
 A Tô de Boa reserva-se no direito de, a qualquer tempo, modificar estes termos seja incluindo, removendo ou alterando quaisquer de suas cláusulas. Tais modificações terão efeito imediato. Após publicadas tais alterações, ao continuar com o uso do aplicativo você terá aceitado e concordado em cumprir os termos modificados.
 A Tô de Boa pode, de tempos em tempos, modificar ou descontinuar (temporária ou permanentemente) a distribuição ou a atualização deste aplicativo.
@@ -19,7 +19,7 @@ A Tô de Boa poderá cancelar sua conta a qualquer momento, sem aviso prévio, s
 A Tô de Boa não é obrigada a fornecer nenhum serviço de suporte para este aplicativo.
 O usuário não poderá responsabilizar a Tô de Boa nem seus diretores, executivos, funcionários, afiliados, agentes, contratados ou licenciadores por quaisquer modificações, suspensões ou descontinuidade do aplicativo. Você pode encerrar sua conta a qualquer momento, por qualquer motivo.
 
-##CONSENTIMENTO PARA COLETA E USO DE DADOS
+## CONSENTIMENTO PARA COLETA E USO DE DADOS
 
 Você concorda que a Tô de Boa pode coletar e usar dados técnicos de seu dispositivo tais como especificações, configurações, versões de sistema operacional, tipo de conexão à internet e afins.
 ISENÇÃO DE GARANTIAS E LIMITAÇÕES DE RESPONSABILIDADE
@@ -36,7 +36,7 @@ Tô de Boa não é responsável pela disponibilidade (ou falta de disponibilidad
 Embora a Tô de Boa se esforce para incentivar uma experiência de usuário com respeito, não somos responsáveis pela conduta do usuário dentro ou fora do Serviço. Você concorda em agir com cautela em todas as interações com outros usuários, especialmente ao decidir se comunicar fora do Serviço ou pessoalmente. Você concorda que não fornecerá suas informações financeiras (p. ex., cartão de crédito ou informações de conta bancária) e que não transferirá ou enviará dinheiro por outros meios a outros usuários.
 Você é o único responsável por suas interações com outros usuários. Você compreende que a Tô de Boa não investiga os antecedentes criminais dos usuários, nem verifica o histórico dos usuários. A Tô de Boa não manifesta declarações ou garantias em relação à conduta dos usuários.
 
-##DAS OBRIGAÇÕES DO USUÁRIO
+## DAS OBRIGAÇÕES DO USUÁRIO
 
 Você concorda em não:
 •	usar o Serviço, ou qualquer conteúdo contido no Serviço, para fins comerciais sem a nossa autorização por escrito;
@@ -75,7 +75,7 @@ Ao se comunicar com os nossos representantes de atendimento ao cliente, você co
 Em consideração ao Tô de Boa, o qual permite que você utilize o Serviço, você concorda que poderá haver publicidade no Serviço veiculada por nós, nossas afiliadas e parceiros terceirizados. Ao enviar sugestões ou comentários ao Tô de Boa sobre o nosso Serviço, você concorda que a Tô de Boa poderá utilizar e compartilhar as sugestões para qualquer finalidade, sem compensação.
 Você concorda que a Tô de Boa poderá acessar, preservar e divulgar as informações da sua conta e Conteúdo se exigido por lei ou se acreditar, de boa fé, que o acesso, preservação ou divulgação seja razoavelmente necessário para: (i) cumprir com um processo judicial; (ii) fazer cumprir este Contrato; (iii) responder a reivindicações de qualquer Conteúdo que viole os direitos de terceiros; (iv) responder às suas solicitações de atendimento ao cliente; ou (v) proteger os direitos, bens ou segurança pessoal da Empresa ou de qualquer outra pessoa.
 
-##DAS OBRIGAÇÕES JUNTO À COMUNIDADE
+## DAS OBRIGAÇÕES JUNTO À COMUNIDADE
 
 Ao utilizar o Serviço, você concorda em não:
 •	utilizar o Serviço para qualquer finalidade que seja ilegal ou proibida por este Contrato;
