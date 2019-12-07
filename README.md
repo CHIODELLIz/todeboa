@@ -28,6 +28,7 @@ A Tô de Boa NÃO declara ou garante que (a) o serviço será ininterrupto, segu
 A Tô de Boa não assume nenhuma responsabilidade por qualquer conteúdo que você, outros usuários ou terceiros publiquem, enviem ou recebam através do serviço. Qualquer material baixado ou, de outra forma, obtido através do uso do serviço, é acessado por sua própria conta e risco.
 A Tô de Boa se isenta e não assume nenhuma responsabilidade por qualquer conduta sua ou de qualquer outro usuário, dentro ou fora do serviço.
 Exceto pelo estabelecido neste documento não há outras garantias, condições ou promessas aos aplicativos, expressas ou implícitas, e todas essas garantias, condições e promessas podem ser excluídas de acordo com o que é permitido por lei sem prejuízo à Tô de Boa e seus colaboradores.
+
 I. A Tô de Boa poderá remover por períodos indefinidos ou cancelar este aplicativo a qualquer momento sem que você seja avisado.
 II. A Tô de Boa não garante, declara nem assegura que este aplicativo esteja livre de perda, interrupção, ataque, vírus, interferência, pirataria ou outra invasão de segurança e isenta-se de qualquer responsabilidade em relação à essas questões. Você é responsável pelo backup do seu próprio dispositivo.
 III. Em hipótese alguma a Tô de Boa, bem como seus diretores, executivos, funcionários, afiliadas, agentes, contratados ou licenciadores responsabilizar-se-ão por perdas ou danos causados pelo uso do aplicativo.
@@ -39,7 +40,8 @@ Você é o único responsável por suas interações com outros usuários. Você
 ## DAS OBRIGAÇÕES DO USUÁRIO
 
 Você concorda em não:
-•	usar o Serviço, ou qualquer conteúdo contido no Serviço, para fins comerciais sem a nossa autorização por escrito;
+
+• usar o Serviço, ou qualquer conteúdo contido no Serviço, para fins comerciais sem a nossa autorização por escrito;
 
 •	copiar, modificar, transmitir, criar trabalhos derivados, fazer uso ou reproduzir em qualquer formato materiais protegidos por direitos autorais, imagens, marcas comerciais, nomes comerciais, marcas de serviço ou outros direitos de propriedade intelectual, conteúdo ou informações de propriedade exclusiva acessíveis através do Serviço, sem a autorização prévia por escrito da Tô de Boa;
 
@@ -78,6 +80,7 @@ Você concorda que a Tô de Boa poderá acessar, preservar e divulgar as informa
 ## DAS OBRIGAÇÕES JUNTO À COMUNIDADE
 
 Ao utilizar o Serviço, você concorda em não:
+
 •	utilizar o Serviço para qualquer finalidade que seja ilegal ou proibida por este Contrato;
 
 •	usar o Serviço para qualquer fim prejudicial ou desonesto;
